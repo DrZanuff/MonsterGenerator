@@ -1,0 +1,7 @@
+GET http://localhost:4001/generate
+
+###
+GET http://localhost:4001/monsters
+
+###
+GET http://localhost:4001/monsters/61fe095090710af68c04fa86

@@ -1,0 +1,21 @@
+{
+  "name": "MonsterGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "DrZanuff",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "faker": "5.5.3",
+    "mongoose": "^6.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
